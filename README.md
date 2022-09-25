@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif)
+![](https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif) ### Welcome weary traveller<br/>Take a seat, enjoy the fire, and explore my page during your stay :)
 
 ### Hi there 👋
 
