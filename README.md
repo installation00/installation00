@@ -1,5 +1,5 @@
 <p align = center>
-  ![](https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif)
+  <img src="https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif"/>
 </p>
 Welcome weary traveller
 
