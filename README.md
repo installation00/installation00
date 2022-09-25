@@ -1,4 +1,4 @@
-![](https://github.com/installation00/fire.gif)
+![](https://media.giphy.com/media/AO5qaphTxRnyw/giphy.gif)
 
 ### Hi there 👋
 
