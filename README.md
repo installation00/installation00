@@ -5,6 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=installation00&theme=radical" />
  </a>
  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=installation00&theme=radical""https://github.com/anuraghazra/github-readme-stats&theme=radical" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=installation00&repo=kurrelyy&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=installation00&theme=radical""https://github.com/anuraghazra/github-readme-stats&theme=radical""https://github-readme-stats.vercel.app/api/pin/?username=installation00&repo=kurrelyy&theme=radical" /><img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=installation00&repo=kurrelyy&theme=radical" />
  </a>
 </p>
